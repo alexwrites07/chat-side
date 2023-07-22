@@ -8,29 +8,29 @@ Then run
 Afterthat the node modules will be added.
 
 then run
-### npm install --save firebase
+## npm install --save firebase
 to connect the firebase server for several features
 
 Afterthat create your own firebase project and change the details in firebase.js with yours.
 
 then run
-#### npm install emoji-picker-react
+## npm install emoji-picker-react
 to add emoji options
 
 then run 
-##### npm install jodit-pro-react --save
+## npm install jodit-pro-react --save
 to install packages of Jodit-react-pro which helps to provide a Text Editor and a lot of editting options
 
 then run
-###### npm install -g sass
+## npm install -g sass
 to add SASS for styling the components
 
 then run
-####### npm install uuid
+## npm install uuid
 to install uuid to generate Ids.
 
 At last run
-######## yarn start
+## yarn start
 To start your project at localhost:3000
 
 
